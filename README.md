@@ -36,10 +36,6 @@ def selection_sort(nums):
 list_of_nums = eval(input())
 selection_sort(list_of_nums)
 print(list_of_nums)
-
-
-
-
 ```
 ### ii)	Insertion Sort
 ```
@@ -59,12 +55,6 @@ def insertion_sort(nums):
 list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
-        
-
-
-
-
-
 ```
 
 ## Output:
